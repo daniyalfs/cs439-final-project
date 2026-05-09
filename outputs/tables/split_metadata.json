@@ -1,0 +1,10 @@
+{
+  "n_total": 569,
+  "n_train": 455,
+  "n_test": 114,
+  "positive_class": "malignant",
+  "positive_class_count_total": 212,
+  "negative_class_count_total": 357,
+  "test_size": 0.2,
+  "random_state": 42
+}

@@ -1,0 +1,11 @@
+{
+  "selected_k": 2,
+  "cluster_train_counts": {
+    "0": 297,
+    "1": 158
+  },
+  "cluster_test_counts": {
+    "0": 78,
+    "1": 36
+  }
+}
