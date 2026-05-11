@@ -59,6 +59,8 @@ pdflatex final_report.tex
 pdflatex final_report.tex
 ```
 
+If `pdflatex` is not working for me on Windows. Tex file is available and all related files in report folder.
+
 ## Code Repository
 
 GitHub repository: https://github.com/daniyalfs/cs439-final-project.git

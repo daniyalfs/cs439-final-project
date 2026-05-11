@@ -58,7 +58,7 @@ def load_wdbc() -> Tuple[pd.DataFrame, pd.Series]:
     y = pd.Series((bunch.target == 0).astype(int), name="malignant")
     full = X.copy()
     full["malignant"] = y
-    full.to_csv(DATA_DIR / "wdbc_clean.csv", index=False)
+    full.to_csv(DATA_DIR / "wdbc.csv", index=False)
     return X, y
 
 
